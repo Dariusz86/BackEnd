@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug\PTAQ.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-06-29" time="13:36:12">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug" machine-name="GPLPL0026" user="e-dzsi" user-domain="GFT" />
+  <culture-info current-culture="pl-PL" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug\PTAQ.dll" executed="True" result="Success" success="True" time="0.040" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="BackEnd" executed="True" result="Success" success="True" time="0.040" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Features" executed="True" result="Success" success="True" time="0.039" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="ComparisonTests" executed="True" result="Success" success="True" time="0.039" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="UploadDataFromFileIntoTableFeature" executed="True" result="Success" success="True" time="0.038" asserts="0">
+                    <results>
+                      <test-case name="BackEnd.Features.ComparisonTests.UploadDataFromFileIntoTableFeature.UploadDataFromFile" executed="True" result="Success" success="True" time="0.037" asserts="0">
+                        <categories>
+                          <category name="mytag" />
+                        </categories>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

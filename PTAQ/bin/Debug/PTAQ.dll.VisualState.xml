@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="true">
+  <TopNode>[0-1021]C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug\PTAQ.dll</TopNode>
+  <SelectedNode>[0-1021]C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug\PTAQ.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1021]C:\PTAQ\VS\ptaq\PTAQ\PTAQ\bin\Debug\PTAQ.dll" Expanded="true" />
+    <Node UniqueName="[0-1022]BackEnd" Expanded="true" />
+    <Node UniqueName="[0-1023]BackEnd.Features" Expanded="true" />
+    <Node UniqueName="[0-1027]BackEnd.Features.ComparisonTests" Expanded="true" />
+    <Node UniqueName="[0-1010]BackEnd.Features.ComparisonTests.CompareResultsInExcelFeature" Expanded="true" />
+    <Node UniqueName="[0-1013]BackEnd.Features.ComparisonTests.DownloadDataFromTableFeature" Expanded="true" />
+    <Node UniqueName="[0-1014]BackEnd.Features.ComparisonTests.DownloadDataFromTableFeature.DwonloadSpecificDataFromHumanResources_EmployeeTable" Expanded="true" />
+    <Node UniqueName="[0-1019]BackEnd.Features.ComparisonTests.UploadDataFromFileIntoTableFeature" Expanded="true" />
+    <Node UniqueName="[0-1020]BackEnd.Features.ComparisonTests.UploadDataFromFileIntoTableFeature.UploadDataFromFile" Checked="true" />
+    <Node UniqueName="[0-1026]BackEnd.Features.Demo" Expanded="true" />
+    <Node UniqueName="[0-1006]BackEnd.Features.Demo.ExecuteQueryFromFileFeature" Expanded="true" />
+    <Node UniqueName="[0-1008]BackEnd.Features.Demo.RunCMDFeature" Expanded="true" />
+    <Node UniqueName="[0-1025]BackEnd.Features.HelloWorld" Expanded="true" />
+    <Node UniqueName="[0-1002]BackEnd.Features.HelloWorld.Demo_SimpleDBFeature" Expanded="true" />
+    <Node UniqueName="[0-1004]BackEnd.Features.HelloWorld.Test1Feature" Expanded="true" />
+    <Node UniqueName="[0-1024]BackEnd.Features.SimpleQuery" Expanded="true" />
+    <Node UniqueName="[0-1000]BackEnd.Features.SimpleQuery.CheckCountsFeature" Expanded="true" />
+  </Nodes>
+</VisualState>
